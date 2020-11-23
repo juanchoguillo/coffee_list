@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987243200011",
+    "firebase_url": "https://coffee-list-8b493.firebaseio.com",
+    "project_id": "coffee-list-8b493",
+    "storage_bucket": "coffee-list-8b493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987243200011:android:280882cbc62c298621910e",
+        "android_client_info": {
+          "package_name": "juanguillermocardona.coffee_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987243200011-nj0dp3e0tiv7ucrlcs9v2o3mjjafnekd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBalAqZ4Svo5-WD68XWL10zbEvXsBSDlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987243200011-nj0dp3e0tiv7ucrlcs9v2o3mjjafnekd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
